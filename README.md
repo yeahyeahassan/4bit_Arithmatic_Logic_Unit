@@ -35,10 +35,15 @@ end
 endmodule
 ```
 ---
+
+![Graph](https://github.com/user-attachments/assets/87764153-2d28-4461-b6d8-0de1b31141e4)
+---
+
 ## Summary 📝
 The 4-bit ALU design effectively demonstrates essential arithmetic and logical operations, including addition, subtraction, multiplication, and comparison. The testbench validates the ALU's functionality by simulating operations and displaying results. This design is foundational for digital systems requiring basic computational tasks.
 
 Feel free to reach out if you have any questions or need further assistance! 😊🚀
+
 
 ![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
 
